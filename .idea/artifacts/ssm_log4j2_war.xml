@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-log4j2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssm-log4j2.war">
+      <element id="artifact" artifact-name="ssm-log4j2:war exploded" />
+    </root>
+  </artifact>
+</component>
